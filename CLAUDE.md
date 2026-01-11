@@ -323,3 +323,13 @@ Required in `.env.local`:
 
 ### Deployment
 Optimized for Vercel deployment with Next.js 15 and Turbopack for fast builds and hot module replacement.
+
+## Current Focus
+- [ ] [Update during /session-start]
+
+## Roadmap
+- [ ] [Add planned features]
+
+## Session Log
+### 2025-12-27
+- Initial roadmap sections added
